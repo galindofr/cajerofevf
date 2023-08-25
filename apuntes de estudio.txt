@@ -1,0 +1,3 @@
+estudiar push, map y join de arreglos  25/08/2023 tomado de la clase de JS udemy
+
+event.preventDefault() para evitar que el boton submit refresque la pantalla
